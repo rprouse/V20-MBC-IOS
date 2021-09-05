@@ -1,0 +1,6 @@
+{
+    "configuration": "bootloader=uart0,eeprom=keep,pinout=standard,BOD=2v7,LTO=Os,clock=16MHz_external",
+    "board": "MightyCore:avr:32",
+    "port": "COM4",
+    "sketch": "V20-MBC-IOS.ino"
+}
